@@ -1,0 +1,28 @@
+[2022-01-25 19:31:08,299] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: ingest_data.check scheduled__2022-01-24T01:00:00+00:00 [queued]>
+[2022-01-25 19:31:08,433] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: ingest_data.check scheduled__2022-01-24T01:00:00+00:00 [queued]>
+[2022-01-25 19:31:08,433] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-25 19:31:08,433] {taskinstance.py:1239} INFO - Starting attempt 1 of 1
+[2022-01-25 19:31:08,433] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-25 19:31:08,548] {taskinstance.py:1259} INFO - Executing <Task(BashOperator): check> on 2022-01-24 01:00:00+00:00
+[2022-01-25 19:31:08,619] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'ingest_data', 'check', 'scheduled__2022-01-24T01:00:00+00:00', '--job-id', '41', '--raw', '--subdir', 'DAGS_FOLDER/dag_01.py', '--cfg-path', '/tmp/tmpcaer3ek2', '--error-file', '/tmp/tmpqc3t51w7']
+[2022-01-25 19:31:08,620] {standard_task_runner.py:77} INFO - Job 41: Subtask check
+[2022-01-25 19:31:08,643] {standard_task_runner.py:52} INFO - Started process 3287 to run task
+[2022-01-25 19:31:09,070] {logging_mixin.py:109} INFO - Running <TaskInstance: ingest_data.check scheduled__2022-01-24T01:00:00+00:00 [running]> on host 223810fcea28
+[2022-01-25 19:31:09,480] {taskinstance.py:1426} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=ingest_data
+AIRFLOW_CTX_TASK_ID=check
+AIRFLOW_CTX_EXECUTION_DATE=2022-01-24T01:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-01-24T01:00:00+00:00
+[2022-01-25 19:31:09,510] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2022-01-25 19:31:09,511] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'echo -------------------------- EMPIEZA ------------------------ && pwd']
+[2022-01-25 19:31:09,637] {subprocess.py:85} INFO - Output:
+[2022-01-25 19:31:09,741] {subprocess.py:89} INFO - -------------------------- EMPIEZA ------------------------
+[2022-01-25 19:31:09,743] {subprocess.py:89} INFO - /tmp/***tmpkqpegfx7
+[2022-01-25 19:31:09,744] {subprocess.py:93} INFO - Command exited with return code 0
+[2022-01-25 19:31:09,960] {taskinstance.py:1277} INFO - Marking task as SUCCESS. dag_id=ingest_data, task_id=check, execution_date=20220124T010000, start_date=20220125T193108, end_date=20220125T193109
+[2022-01-25 19:31:10,094] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-01-25 19:31:10,446] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

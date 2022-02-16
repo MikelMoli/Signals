@@ -1,0 +1,26 @@
+[2022-01-25 19:31:22,368] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: ingest_data.move scheduled__2022-01-24T12:00:00+00:00 [queued]>
+[2022-01-25 19:31:22,427] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: ingest_data.move scheduled__2022-01-24T12:00:00+00:00 [queued]>
+[2022-01-25 19:31:22,427] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-25 19:31:22,428] {taskinstance.py:1239} INFO - Starting attempt 1 of 1
+[2022-01-25 19:31:22,428] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-25 19:31:22,479] {taskinstance.py:1259} INFO - Executing <Task(BashOperator): move> on 2022-01-24 12:00:00+00:00
+[2022-01-25 19:31:22,491] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'ingest_data', 'move', 'scheduled__2022-01-24T12:00:00+00:00', '--job-id', '57', '--raw', '--subdir', 'DAGS_FOLDER/dag_01.py', '--cfg-path', '/tmp/tmph66majmc', '--error-file', '/tmp/tmp2vkrh_2y']
+[2022-01-25 19:31:22,492] {standard_task_runner.py:77} INFO - Job 57: Subtask move
+[2022-01-25 19:31:22,486] {standard_task_runner.py:52} INFO - Started process 3341 to run task
+[2022-01-25 19:31:22,677] {logging_mixin.py:109} INFO - Running <TaskInstance: ingest_data.move scheduled__2022-01-24T12:00:00+00:00 [running]> on host 223810fcea28
+[2022-01-25 19:31:22,853] {taskinstance.py:1426} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=ingest_data
+AIRFLOW_CTX_TASK_ID=move
+AIRFLOW_CTX_EXECUTION_DATE=2022-01-24T12:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-01-24T12:00:00+00:00
+[2022-01-25 19:31:22,855] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2022-01-25 19:31:22,856] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'cd /opt/***/']
+[2022-01-25 19:31:22,902] {subprocess.py:85} INFO - Output:
+[2022-01-25 19:31:22,903] {subprocess.py:93} INFO - Command exited with return code 0
+[2022-01-25 19:31:22,967] {taskinstance.py:1277} INFO - Marking task as SUCCESS. dag_id=ingest_data, task_id=move, execution_date=20220124T120000, start_date=20220125T193122, end_date=20220125T193122
+[2022-01-25 19:31:23,018] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-01-25 19:31:23,085] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,160 @@
+[2022-02-14 17:41:19,075] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: ingest_data.extract_all_data scheduled__2022-02-07T00:00:00+00:00 [queued]>
+[2022-02-14 17:41:19,128] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: ingest_data.extract_all_data scheduled__2022-02-07T00:00:00+00:00 [queued]>
+[2022-02-14 17:41:19,129] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-02-14 17:41:19,129] {taskinstance.py:1239} INFO - Starting attempt 1 of 1
+[2022-02-14 17:41:19,129] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-02-14 17:41:19,169] {taskinstance.py:1259} INFO - Executing <Task(PythonOperator): extract_all_data> on 2022-02-07 00:00:00+00:00
+[2022-02-14 17:41:19,175] {standard_task_runner.py:52} INFO - Started process 90 to run task
+[2022-02-14 17:41:19,179] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'ingest_data', 'extract_all_data', 'scheduled__2022-02-07T00:00:00+00:00', '--job-id', '127', '--raw', '--subdir', 'DAGS_FOLDER/dag_01.py', '--cfg-path', '/tmp/tmp3fdde48g', '--error-file', '/tmp/tmp6g8o3vmm']
+[2022-02-14 17:41:19,179] {standard_task_runner.py:77} INFO - Job 127: Subtask extract_all_data
+[2022-02-14 17:41:19,281] {logging_mixin.py:109} INFO - Running <TaskInstance: ingest_data.extract_all_data scheduled__2022-02-07T00:00:00+00:00 [running]> on host 223810fcea28
+[2022-02-14 17:41:19,441] {taskinstance.py:1426} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=ingest_data
+AIRFLOW_CTX_TASK_ID=extract_all_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-02-07T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-02-07T00:00:00+00:00
+[2022-02-14 17:41:19,441] {logging_mixin.py:109} INFO - HELLO WORLD
+[2022-02-14 17:41:34,460] {taskinstance.py:1700} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/urllib/request.py", line 1349, in do_open
+    encode_chunked=req.has_header('Transfer-encoding'))
+  File "/usr/local/lib/python3.6/http/client.py", line 1291, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/local/lib/python3.6/http/client.py", line 1337, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/local/lib/python3.6/http/client.py", line 1286, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/local/lib/python3.6/http/client.py", line 1046, in _send_output
+    self.send(msg)
+  File "/usr/local/lib/python3.6/http/client.py", line 984, in send
+    self.connect()
+  File "/usr/local/lib/python3.6/http/client.py", line 1444, in connect
+    super().connect()
+  File "/usr/local/lib/python3.6/http/client.py", line 956, in connect
+    (self.host,self.port), self.timeout, self.source_address)
+  File "/usr/local/lib/python3.6/socket.py", line 704, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/local/lib/python3.6/socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 174, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 185, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/functions/extract.py", line 62, in extract
+    task.run()
+  File "/opt/airflow/dags/functions/extract.py", line 45, in run
+    data = pd.read_csv(utils.AV_STORIC_API.format(self.ticker, self.api_key))
+  File "/home/airflow/.local/lib/python3.6/site-packages/pandas/io/parsers.py", line 688, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/airflow/.local/lib/python3.6/site-packages/pandas/io/parsers.py", line 437, in _read
+    filepath_or_buffer, encoding, compression
+  File "/home/airflow/.local/lib/python3.6/site-packages/pandas/io/common.py", line 183, in get_filepath_or_buffer
+    req = urlopen(filepath_or_buffer)
+  File "/home/airflow/.local/lib/python3.6/site-packages/pandas/io/common.py", line 137, in urlopen
+    return urllib.request.urlopen(*args, **kwargs)
+  File "/usr/local/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/local/lib/python3.6/urllib/request.py", line 526, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python3.6/urllib/request.py", line 544, in _open
+    '_open', req)
+  File "/usr/local/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python3.6/urllib/request.py", line 1392, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/local/lib/python3.6/urllib/request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno -3] Temporary failure in name resolution>
+[2022-02-14 17:41:34,493] {taskinstance.py:1277} INFO - Marking task as FAILED. dag_id=ingest_data, task_id=extract_all_data, execution_date=20220207T000000, start_date=20220214T174119, end_date=20220214T174134
+[2022-02-14 17:41:34,528] {standard_task_runner.py:92} ERROR - Failed to execute job 127 for task extract_all_data
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/urllib/request.py", line 1349, in do_open
+    encode_chunked=req.has_header('Transfer-encoding'))
+  File "/usr/local/lib/python3.6/http/client.py", line 1291, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/local/lib/python3.6/http/client.py", line 1337, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/local/lib/python3.6/http/client.py", line 1286, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/local/lib/python3.6/http/client.py", line 1046, in _send_output
+    self.send(msg)
+  File "/usr/local/lib/python3.6/http/client.py", line 984, in send
+    self.connect()
+  File "/usr/local/lib/python3.6/http/client.py", line 1444, in connect
+    super().connect()
+  File "/usr/local/lib/python3.6/http/client.py", line 956, in connect
+    (self.host,self.port), self.timeout, self.source_address)
+  File "/usr/local/lib/python3.6/socket.py", line 704, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/local/lib/python3.6/socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/task/task_runner/standard_task_runner.py", line 85, in _start_by_fork
+    args.func(args, dag=self.dag)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/cli/cli_parser.py", line 48, in command
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/cli.py", line 92, in wrapper
+    return f(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/cli/commands/task_command.py", line 298, in task_run
+    _run_task_by_selected_method(args, dag, ti)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/cli/commands/task_command.py", line 107, in _run_task_by_selected_method
+    _run_raw_task(args, ti)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/cli/commands/task_command.py", line 184, in _run_raw_task
+    error_file=args.error_file,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 174, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 185, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/functions/extract.py", line 62, in extract
+    task.run()
+  File "/opt/airflow/dags/functions/extract.py", line 45, in run
+    data = pd.read_csv(utils.AV_STORIC_API.format(self.ticker, self.api_key))
+  File "/home/airflow/.local/lib/python3.6/site-packages/pandas/io/parsers.py", line 688, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/airflow/.local/lib/python3.6/site-packages/pandas/io/parsers.py", line 437, in _read
+    filepath_or_buffer, encoding, compression
+  File "/home/airflow/.local/lib/python3.6/site-packages/pandas/io/common.py", line 183, in get_filepath_or_buffer
+    req = urlopen(filepath_or_buffer)
+  File "/home/airflow/.local/lib/python3.6/site-packages/pandas/io/common.py", line 137, in urlopen
+    return urllib.request.urlopen(*args, **kwargs)
+  File "/usr/local/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/local/lib/python3.6/urllib/request.py", line 526, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python3.6/urllib/request.py", line 544, in _open
+    '_open', req)
+  File "/usr/local/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python3.6/urllib/request.py", line 1392, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/local/lib/python3.6/urllib/request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno -3] Temporary failure in name resolution>
+[2022-02-14 17:41:34,549] {local_task_job.py:154} INFO - Task exited with return code 1
+[2022-02-14 17:41:34,593] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

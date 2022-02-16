@@ -1,0 +1,980 @@
+[2022-02-15 18:00:30,694] {processor.py:163} INFO - Started process (PID=42) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:00:30,696] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:00:30,716] {logging_mixin.py:109} INFO - [2022-02-15 18:00:30,716] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:00:31,893] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:00:31,900] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 1.210 seconds
+[2022-02-15 18:01:01,972] {processor.py:163} INFO - Started process (PID=83) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:01:01,973] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:01:01,974] {logging_mixin.py:109} INFO - [2022-02-15 18:01:01,974] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:01:02,300] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:01:02,303] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.334 seconds
+[2022-02-15 18:01:32,418] {processor.py:163} INFO - Started process (PID=130) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:01:32,419] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:01:32,420] {logging_mixin.py:109} INFO - [2022-02-15 18:01:32,419] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:01:32,795] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:01:32,798] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.382 seconds
+[2022-02-15 18:02:02,925] {processor.py:163} INFO - Started process (PID=166) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:02:02,926] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:02:02,928] {logging_mixin.py:109} INFO - [2022-02-15 18:02:02,927] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:02:03,305] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:02:03,308] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.385 seconds
+[2022-02-15 18:02:33,411] {processor.py:163} INFO - Started process (PID=213) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:02:33,413] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:02:33,414] {logging_mixin.py:109} INFO - [2022-02-15 18:02:33,414] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:02:33,930] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:02:33,933] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.525 seconds
+[2022-02-15 18:03:04,511] {processor.py:163} INFO - Started process (PID=252) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:03:04,511] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:03:04,512] {logging_mixin.py:109} INFO - [2022-02-15 18:03:04,512] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:03:04,887] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:03:04,890] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.382 seconds
+[2022-02-15 18:03:35,000] {processor.py:163} INFO - Started process (PID=291) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:03:35,002] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:03:35,002] {logging_mixin.py:109} INFO - [2022-02-15 18:03:35,002] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:03:35,359] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:03:35,363] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.365 seconds
+[2022-02-15 18:04:05,498] {processor.py:163} INFO - Started process (PID=337) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:04:05,499] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:04:05,499] {logging_mixin.py:109} INFO - [2022-02-15 18:04:05,499] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:04:05,967] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:04:05,971] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.475 seconds
+[2022-02-15 18:04:36,097] {processor.py:163} INFO - Started process (PID=373) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:04:36,098] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:04:36,099] {logging_mixin.py:109} INFO - [2022-02-15 18:04:36,099] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:04:36,532] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:04:36,536] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.442 seconds
+[2022-02-15 18:05:06,706] {processor.py:163} INFO - Started process (PID=410) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:05:06,709] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:05:06,712] {logging_mixin.py:109} INFO - [2022-02-15 18:05:06,711] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:05:07,139] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:05:07,142] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.445 seconds
+[2022-02-15 18:05:37,277] {processor.py:163} INFO - Started process (PID=457) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:05:37,278] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:05:37,278] {logging_mixin.py:109} INFO - [2022-02-15 18:05:37,278] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:05:37,776] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:05:37,781] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.506 seconds
+[2022-02-15 18:06:07,928] {processor.py:163} INFO - Started process (PID=494) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:06:07,930] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:06:07,931] {logging_mixin.py:109} INFO - [2022-02-15 18:06:07,931] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:06:08,347] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:06:08,350] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.424 seconds
+[2022-02-15 18:06:38,473] {processor.py:163} INFO - Started process (PID=542) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:06:38,475] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:06:38,475] {logging_mixin.py:109} INFO - [2022-02-15 18:06:38,475] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:06:38,901] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:06:38,904] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.433 seconds
+[2022-02-15 18:07:09,050] {processor.py:163} INFO - Started process (PID=578) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:07:09,053] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:07:09,055] {logging_mixin.py:109} INFO - [2022-02-15 18:07:09,055] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:07:09,454] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:07:09,457] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.415 seconds
+[2022-02-15 18:07:39,579] {processor.py:163} INFO - Started process (PID=614) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:07:39,581] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:07:39,581] {logging_mixin.py:109} INFO - [2022-02-15 18:07:39,581] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:07:40,226] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:07:40,230] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.654 seconds
+[2022-02-15 18:08:10,385] {processor.py:163} INFO - Started process (PID=661) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:08:10,389] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:08:10,391] {logging_mixin.py:109} INFO - [2022-02-15 18:08:10,391] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:08:10,789] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:08:10,793] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.417 seconds
+[2022-02-15 18:08:40,929] {processor.py:163} INFO - Started process (PID=698) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:08:40,932] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:08:40,933] {logging_mixin.py:109} INFO - [2022-02-15 18:08:40,932] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:08:41,320] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:08:41,323] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.397 seconds
+[2022-02-15 18:09:11,459] {processor.py:163} INFO - Started process (PID=745) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:09:11,460] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:09:11,461] {logging_mixin.py:109} INFO - [2022-02-15 18:09:11,460] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:09:11,838] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:09:11,841] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.385 seconds
+[2022-02-15 18:09:42,004] {processor.py:163} INFO - Started process (PID=781) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:09:42,005] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:09:42,006] {logging_mixin.py:109} INFO - [2022-02-15 18:09:42,006] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:09:42,389] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:09:42,392] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.391 seconds
+[2022-02-15 18:10:12,525] {processor.py:163} INFO - Started process (PID=827) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:10:12,527] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:10:12,527] {logging_mixin.py:109} INFO - [2022-02-15 18:10:12,527] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:10:12,958] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:10:12,964] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.441 seconds
+[2022-02-15 18:10:43,123] {processor.py:163} INFO - Started process (PID=863) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:10:43,125] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:10:43,125] {logging_mixin.py:109} INFO - [2022-02-15 18:10:43,125] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:10:43,541] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:10:43,544] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.423 seconds
+[2022-02-15 18:11:13,677] {processor.py:163} INFO - Started process (PID=908) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:11:13,678] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:11:13,678] {logging_mixin.py:109} INFO - [2022-02-15 18:11:13,678] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:11:14,091] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:11:14,094] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.420 seconds
+[2022-02-15 18:11:44,222] {processor.py:163} INFO - Started process (PID=945) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:11:44,223] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:11:44,224] {logging_mixin.py:109} INFO - [2022-02-15 18:11:44,224] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:11:44,714] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:11:44,717] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.497 seconds
+[2022-02-15 18:12:14,835] {processor.py:163} INFO - Started process (PID=981) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:12:14,836] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:12:14,837] {logging_mixin.py:109} INFO - [2022-02-15 18:12:14,837] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:12:15,263] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:12:15,266] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.434 seconds
+[2022-02-15 18:12:45,402] {processor.py:163} INFO - Started process (PID=1027) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:12:45,403] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:12:45,404] {logging_mixin.py:109} INFO - [2022-02-15 18:12:45,404] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:12:45,798] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:12:45,801] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.402 seconds
+[2022-02-15 18:13:15,917] {processor.py:163} INFO - Started process (PID=1063) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:13:15,918] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:13:15,919] {logging_mixin.py:109} INFO - [2022-02-15 18:13:15,919] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:13:16,401] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:13:16,406] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.492 seconds
+[2022-02-15 18:13:46,566] {processor.py:163} INFO - Started process (PID=1109) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:13:46,569] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:13:46,570] {logging_mixin.py:109} INFO - [2022-02-15 18:13:46,570] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:13:46,968] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:13:46,971] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.413 seconds
+[2022-02-15 18:14:17,128] {processor.py:163} INFO - Started process (PID=1145) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:14:17,132] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:14:17,134] {logging_mixin.py:109} INFO - [2022-02-15 18:14:17,133] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:14:17,525] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:14:17,528] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.408 seconds
+[2022-02-15 18:14:47,667] {processor.py:163} INFO - Started process (PID=1191) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:14:47,668] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:14:47,669] {logging_mixin.py:109} INFO - [2022-02-15 18:14:47,669] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:14:48,050] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:14:48,053] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.390 seconds
+[2022-02-15 18:15:18,193] {processor.py:163} INFO - Started process (PID=1228) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:15:18,194] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:15:18,195] {logging_mixin.py:109} INFO - [2022-02-15 18:15:18,195] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:15:18,576] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:15:18,580] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.389 seconds
+[2022-02-15 18:15:48,743] {processor.py:163} INFO - Started process (PID=1276) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:15:48,744] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:15:48,745] {logging_mixin.py:109} INFO - [2022-02-15 18:15:48,745] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:15:49,200] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:15:49,203] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.464 seconds
+[2022-02-15 18:16:19,327] {processor.py:163} INFO - Started process (PID=1313) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:16:19,328] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:16:19,329] {logging_mixin.py:109} INFO - [2022-02-15 18:16:19,329] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:16:19,703] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:16:19,706] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.381 seconds
+[2022-02-15 18:16:49,849] {processor.py:163} INFO - Started process (PID=1360) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:16:49,851] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:16:49,852] {logging_mixin.py:109} INFO - [2022-02-15 18:16:49,851] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:16:50,278] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:16:50,282] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.435 seconds
+[2022-02-15 18:17:20,399] {processor.py:163} INFO - Started process (PID=1396) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:17:20,400] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:17:20,401] {logging_mixin.py:109} INFO - [2022-02-15 18:17:20,401] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:17:20,849] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:17:20,852] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.455 seconds
+[2022-02-15 18:17:50,971] {processor.py:163} INFO - Started process (PID=1433) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:17:50,972] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:17:50,973] {logging_mixin.py:109} INFO - [2022-02-15 18:17:50,973] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:17:51,445] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:17:51,448] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.480 seconds
+[2022-02-15 18:18:21,590] {processor.py:163} INFO - Started process (PID=1479) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:18:21,591] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:18:21,593] {logging_mixin.py:109} INFO - [2022-02-15 18:18:21,593] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:18:22,161] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:18:22,167] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.582 seconds
+[2022-02-15 18:18:52,351] {processor.py:163} INFO - Started process (PID=1516) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:18:52,355] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:18:52,356] {logging_mixin.py:109} INFO - [2022-02-15 18:18:52,356] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:18:52,976] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:18:52,980] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.634 seconds
+[2022-02-15 18:19:23,123] {processor.py:163} INFO - Started process (PID=1553) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:19:23,125] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:19:23,126] {logging_mixin.py:109} INFO - [2022-02-15 18:19:23,126] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:19:23,812] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:19:23,817] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.700 seconds
+[2022-02-15 18:19:53,979] {processor.py:163} INFO - Started process (PID=1599) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:19:53,980] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:19:53,981] {logging_mixin.py:109} INFO - [2022-02-15 18:19:53,981] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:19:54,585] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:19:54,591] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.616 seconds
+[2022-02-15 18:20:24,725] {processor.py:163} INFO - Started process (PID=1635) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:20:24,727] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:20:24,727] {logging_mixin.py:109} INFO - [2022-02-15 18:20:24,727] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:20:25,245] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:20:25,251] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.528 seconds
+[2022-02-15 18:20:55,432] {processor.py:163} INFO - Started process (PID=1671) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:20:55,436] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:20:55,438] {logging_mixin.py:109} INFO - [2022-02-15 18:20:55,438] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:20:56,047] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:20:56,050] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.626 seconds
+[2022-02-15 18:21:26,189] {processor.py:163} INFO - Started process (PID=1717) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:21:26,191] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:21:26,191] {logging_mixin.py:109} INFO - [2022-02-15 18:21:26,191] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:21:26,722] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:21:26,726] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.540 seconds
+[2022-02-15 18:21:56,856] {processor.py:163} INFO - Started process (PID=1754) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:21:56,857] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:21:56,857] {logging_mixin.py:109} INFO - [2022-02-15 18:21:56,857] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:21:57,323] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:21:57,326] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.473 seconds
+[2022-02-15 18:22:27,480] {processor.py:163} INFO - Started process (PID=1791) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:22:27,483] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:22:27,484] {logging_mixin.py:109} INFO - [2022-02-15 18:22:27,484] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:22:28,111] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:22:28,116] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.645 seconds
+[2022-02-15 18:22:58,240] {processor.py:163} INFO - Started process (PID=1837) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:22:58,241] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:22:58,242] {logging_mixin.py:109} INFO - [2022-02-15 18:22:58,242] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:22:58,755] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:22:58,759] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.521 seconds
+[2022-02-15 18:23:28,926] {processor.py:163} INFO - Started process (PID=1873) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:23:28,929] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:23:28,930] {logging_mixin.py:109} INFO - [2022-02-15 18:23:28,930] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:23:29,488] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:23:29,492] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.575 seconds
+[2022-02-15 18:23:59,652] {processor.py:163} INFO - Started process (PID=1910) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:23:59,657] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:23:59,659] {logging_mixin.py:109} INFO - [2022-02-15 18:23:59,659] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:24:00,165] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:24:00,173] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.528 seconds
+[2022-02-15 18:24:30,298] {processor.py:163} INFO - Started process (PID=1955) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:24:30,300] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:24:30,303] {logging_mixin.py:109} INFO - [2022-02-15 18:24:30,302] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:24:30,843] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:24:30,847] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.551 seconds
+[2022-02-15 18:25:01,000] {processor.py:163} INFO - Started process (PID=1994) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:25:01,003] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:25:01,006] {logging_mixin.py:109} INFO - [2022-02-15 18:25:01,005] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:25:01,661] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:25:01,680] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.689 seconds
+[2022-02-15 18:25:31,786] {processor.py:163} INFO - Started process (PID=2031) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:25:31,787] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:25:31,788] {logging_mixin.py:109} INFO - [2022-02-15 18:25:31,788] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:25:32,279] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:25:32,282] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.500 seconds
+[2022-02-15 18:26:02,442] {processor.py:163} INFO - Started process (PID=2068) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:26:02,446] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:26:02,447] {logging_mixin.py:109} INFO - [2022-02-15 18:26:02,446] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:26:03,059] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:26:03,063] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.623 seconds
+[2022-02-15 18:26:33,189] {processor.py:163} INFO - Started process (PID=2119) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:26:33,192] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:26:33,193] {logging_mixin.py:109} INFO - [2022-02-15 18:26:33,192] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:26:33,807] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:26:33,811] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.624 seconds
+[2022-02-15 18:27:03,974] {processor.py:163} INFO - Started process (PID=2155) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:27:03,975] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:27:03,976] {logging_mixin.py:109} INFO - [2022-02-15 18:27:03,975] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:27:04,596] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:27:04,601] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.629 seconds
+[2022-02-15 18:27:34,732] {processor.py:163} INFO - Started process (PID=2202) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:27:34,735] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:27:34,735] {logging_mixin.py:109} INFO - [2022-02-15 18:27:34,735] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:27:35,340] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:27:35,344] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.614 seconds
+[2022-02-15 18:28:05,490] {processor.py:163} INFO - Started process (PID=2238) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:28:05,493] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:28:05,495] {logging_mixin.py:109} INFO - [2022-02-15 18:28:05,494] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:28:05,974] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:28:05,977] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.492 seconds
+[2022-02-15 18:28:36,117] {processor.py:163} INFO - Started process (PID=2274) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:28:36,118] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:28:36,119] {logging_mixin.py:109} INFO - [2022-02-15 18:28:36,119] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:28:36,832] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:28:36,841] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.727 seconds
+[2022-02-15 18:29:07,018] {processor.py:163} INFO - Started process (PID=2321) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:29:07,021] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:29:07,023] {logging_mixin.py:109} INFO - [2022-02-15 18:29:07,023] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:29:07,732] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:29:07,741] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.726 seconds
+[2022-02-15 18:29:37,888] {processor.py:163} INFO - Started process (PID=2357) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:29:37,890] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:29:37,890] {logging_mixin.py:109} INFO - [2022-02-15 18:29:37,890] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:29:38,720] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:29:38,728] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.843 seconds
+[2022-02-15 18:30:08,911] {processor.py:163} INFO - Started process (PID=2393) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:30:08,922] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:30:08,923] {logging_mixin.py:109} INFO - [2022-02-15 18:30:08,923] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:30:09,541] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:30:09,545] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.638 seconds
+[2022-02-15 18:30:39,726] {processor.py:163} INFO - Started process (PID=2429) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:30:39,732] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:30:39,735] {logging_mixin.py:109} INFO - [2022-02-15 18:30:39,735] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:30:40,316] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:30:40,319] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.599 seconds
+[2022-02-15 18:31:10,448] {processor.py:163} INFO - Started process (PID=2476) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:31:10,450] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:31:10,451] {logging_mixin.py:109} INFO - [2022-02-15 18:31:10,451] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:31:10,979] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:31:10,984] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.544 seconds
+[2022-02-15 18:31:41,132] {processor.py:163} INFO - Started process (PID=2512) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:31:41,134] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:31:41,135] {logging_mixin.py:109} INFO - [2022-02-15 18:31:41,135] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:31:41,621] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:31:41,625] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.496 seconds
+[2022-02-15 18:32:11,770] {processor.py:163} INFO - Started process (PID=2548) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:32:11,771] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:32:11,772] {logging_mixin.py:109} INFO - [2022-02-15 18:32:11,772] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:32:12,272] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:32:12,275] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.507 seconds
+[2022-02-15 18:32:42,422] {processor.py:163} INFO - Started process (PID=2596) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:32:42,424] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:32:42,425] {logging_mixin.py:109} INFO - [2022-02-15 18:32:42,424] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:32:43,003] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:32:43,010] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.596 seconds
+[2022-02-15 18:33:13,141] {processor.py:163} INFO - Started process (PID=2632) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:33:13,143] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:33:13,143] {logging_mixin.py:109} INFO - [2022-02-15 18:33:13,143] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:33:13,733] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:33:13,738] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.599 seconds
+[2022-02-15 18:33:43,897] {processor.py:163} INFO - Started process (PID=2668) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:33:43,900] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:33:43,902] {logging_mixin.py:109} INFO - [2022-02-15 18:33:43,902] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:33:44,486] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:33:44,492] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.601 seconds
+[2022-02-15 18:34:14,686] {processor.py:163} INFO - Started process (PID=2705) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:34:14,687] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:34:14,688] {logging_mixin.py:109} INFO - [2022-02-15 18:34:14,688] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:34:15,354] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:34:15,358] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.679 seconds
+[2022-02-15 18:34:45,521] {processor.py:163} INFO - Started process (PID=2754) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:34:45,522] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:34:45,523] {logging_mixin.py:109} INFO - [2022-02-15 18:34:45,523] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:34:46,476] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:34:46,484] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.973 seconds
+[2022-02-15 18:35:16,692] {processor.py:163} INFO - Started process (PID=2792) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:35:16,694] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:35:16,696] {logging_mixin.py:109} INFO - [2022-02-15 18:35:16,695] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:35:17,423] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:35:17,428] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.744 seconds
+[2022-02-15 18:35:47,610] {processor.py:163} INFO - Started process (PID=2829) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:35:47,611] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:35:47,612] {logging_mixin.py:109} INFO - [2022-02-15 18:35:47,612] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:35:48,306] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:35:48,311] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.709 seconds
+[2022-02-15 18:36:18,452] {processor.py:163} INFO - Started process (PID=2866) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:36:18,453] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:36:18,454] {logging_mixin.py:109} INFO - [2022-02-15 18:36:18,454] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:36:18,998] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:36:19,002] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.553 seconds
+[2022-02-15 18:36:49,154] {processor.py:163} INFO - Started process (PID=2913) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:36:49,155] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:36:49,156] {logging_mixin.py:109} INFO - [2022-02-15 18:36:49,156] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:36:49,743] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:36:49,746] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.595 seconds
+[2022-02-15 18:37:19,911] {processor.py:163} INFO - Started process (PID=2949) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:37:19,914] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:37:19,915] {logging_mixin.py:109} INFO - [2022-02-15 18:37:19,915] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:37:20,583] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:37:20,593] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.691 seconds
+[2022-02-15 18:37:50,780] {processor.py:163} INFO - Started process (PID=2985) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:37:50,781] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:37:50,782] {logging_mixin.py:109} INFO - [2022-02-15 18:37:50,782] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:37:51,435] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:37:51,438] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.661 seconds
+[2022-02-15 18:38:21,596] {processor.py:163} INFO - Started process (PID=3031) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:38:21,598] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:38:21,598] {logging_mixin.py:109} INFO - [2022-02-15 18:38:21,598] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:38:22,333] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:38:22,338] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.745 seconds
+[2022-02-15 18:38:52,497] {processor.py:163} INFO - Started process (PID=3069) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:38:52,499] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:38:52,499] {logging_mixin.py:109} INFO - [2022-02-15 18:38:52,499] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:38:53,060] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:38:53,064] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.572 seconds
+[2022-02-15 18:39:23,231] {processor.py:163} INFO - Started process (PID=3106) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:39:23,233] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:39:23,235] {logging_mixin.py:109} INFO - [2022-02-15 18:39:23,235] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:39:23,873] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:39:23,876] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.649 seconds
+[2022-02-15 18:39:54,037] {processor.py:163} INFO - Started process (PID=3145) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:39:54,040] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:39:54,041] {logging_mixin.py:109} INFO - [2022-02-15 18:39:54,040] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:39:54,746] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:39:54,757] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.724 seconds
+[2022-02-15 18:40:24,923] {processor.py:163} INFO - Started process (PID=3190) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:40:24,925] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:40:24,927] {logging_mixin.py:109} INFO - [2022-02-15 18:40:24,926] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:40:25,686] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:40:25,690] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.775 seconds
+[2022-02-15 18:40:55,798] {processor.py:163} INFO - Started process (PID=3227) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:40:55,800] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:40:55,801] {logging_mixin.py:109} INFO - [2022-02-15 18:40:55,801] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:40:56,471] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:40:56,475] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.684 seconds
+[2022-02-15 18:41:26,617] {processor.py:163} INFO - Started process (PID=3263) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:41:26,618] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:41:26,619] {logging_mixin.py:109} INFO - [2022-02-15 18:41:26,618] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:41:27,213] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:41:27,217] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.604 seconds
+[2022-02-15 18:41:57,294] {processor.py:163} INFO - Started process (PID=3300) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:41:57,295] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:41:57,296] {logging_mixin.py:109} INFO - [2022-02-15 18:41:57,296] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:41:57,962] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:41:57,965] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.673 seconds
+[2022-02-15 18:42:28,103] {processor.py:163} INFO - Started process (PID=3347) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:42:28,106] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:42:28,107] {logging_mixin.py:109} INFO - [2022-02-15 18:42:28,107] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:42:28,869] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:42:28,876] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.777 seconds
+[2022-02-15 18:42:59,033] {processor.py:163} INFO - Started process (PID=3384) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:42:59,036] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:42:59,037] {logging_mixin.py:109} INFO - [2022-02-15 18:42:59,036] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:42:59,675] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:42:59,679] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.648 seconds
+[2022-02-15 18:43:29,810] {processor.py:163} INFO - Started process (PID=3421) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:43:29,812] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:43:29,814] {logging_mixin.py:109} INFO - [2022-02-15 18:43:29,814] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:43:30,554] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:43:30,559] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.751 seconds
+[2022-02-15 18:44:00,694] {processor.py:163} INFO - Started process (PID=3461) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:44:00,695] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:44:00,697] {logging_mixin.py:109} INFO - [2022-02-15 18:44:00,696] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:44:01,416] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:44:01,421] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.735 seconds
+[2022-02-15 18:44:31,593] {processor.py:163} INFO - Started process (PID=3497) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:44:31,598] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:44:31,600] {logging_mixin.py:109} INFO - [2022-02-15 18:44:31,600] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:44:32,386] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:44:32,392] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.805 seconds
+[2022-02-15 18:45:02,541] {processor.py:163} INFO - Started process (PID=3534) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:45:02,543] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:45:02,545] {logging_mixin.py:109} INFO - [2022-02-15 18:45:02,545] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:45:03,280] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:45:03,286] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.748 seconds
+[2022-02-15 18:45:33,430] {processor.py:163} INFO - Started process (PID=3580) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:45:33,432] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:45:33,432] {logging_mixin.py:109} INFO - [2022-02-15 18:45:33,432] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:45:33,990] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:45:33,993] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.567 seconds
+[2022-02-15 18:46:04,157] {processor.py:163} INFO - Started process (PID=3617) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:46:04,158] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:46:04,159] {logging_mixin.py:109} INFO - [2022-02-15 18:46:04,159] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:46:04,677] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:46:04,682] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.529 seconds
+[2022-02-15 18:46:34,840] {processor.py:163} INFO - Started process (PID=3653) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:46:34,843] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:46:34,845] {logging_mixin.py:109} INFO - [2022-02-15 18:46:34,844] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:46:35,375] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:46:35,378] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.543 seconds
+[2022-02-15 18:47:05,549] {processor.py:163} INFO - Started process (PID=3689) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:47:05,553] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:47:05,555] {logging_mixin.py:109} INFO - [2022-02-15 18:47:05,555] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:47:06,153] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:47:06,158] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.623 seconds
+[2022-02-15 18:47:36,325] {processor.py:163} INFO - Started process (PID=3725) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:47:36,329] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:47:36,331] {logging_mixin.py:109} INFO - [2022-02-15 18:47:36,331] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:47:36,940] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:47:36,944] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.623 seconds
+[2022-02-15 18:48:07,082] {processor.py:163} INFO - Started process (PID=3762) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:48:07,084] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:48:07,084] {logging_mixin.py:109} INFO - [2022-02-15 18:48:07,084] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:48:07,653] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:48:07,656] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.577 seconds
+[2022-02-15 18:48:37,801] {processor.py:163} INFO - Started process (PID=3809) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:48:37,802] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:48:37,803] {logging_mixin.py:109} INFO - [2022-02-15 18:48:37,803] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:48:38,429] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:48:38,432] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.634 seconds
+[2022-02-15 18:49:08,539] {processor.py:163} INFO - Started process (PID=3846) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:49:08,541] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:49:08,542] {logging_mixin.py:109} INFO - [2022-02-15 18:49:08,542] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:49:09,182] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:49:09,186] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.653 seconds
+[2022-02-15 18:49:39,306] {processor.py:163} INFO - Started process (PID=3882) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:49:39,309] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:49:39,311] {logging_mixin.py:109} INFO - [2022-02-15 18:49:39,311] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:49:39,862] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:49:39,867] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.570 seconds
+[2022-02-15 18:50:09,963] {processor.py:163} INFO - Started process (PID=3918) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:50:09,966] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:50:09,968] {logging_mixin.py:109} INFO - [2022-02-15 18:50:09,968] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:50:10,446] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:50:10,449] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.494 seconds
+[2022-02-15 18:50:40,585] {processor.py:163} INFO - Started process (PID=3954) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:50:40,588] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:50:40,589] {logging_mixin.py:109} INFO - [2022-02-15 18:50:40,589] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:50:41,080] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:50:41,083] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.505 seconds
+[2022-02-15 18:51:11,221] {processor.py:163} INFO - Started process (PID=3990) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:51:11,226] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:51:11,229] {logging_mixin.py:109} INFO - [2022-02-15 18:51:11,228] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:51:11,827] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:51:11,833] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.621 seconds
+[2022-02-15 18:51:41,949] {processor.py:163} INFO - Started process (PID=4027) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:51:41,952] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:51:41,952] {logging_mixin.py:109} INFO - [2022-02-15 18:51:41,952] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:51:42,567] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:51:42,571] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.624 seconds
+[2022-02-15 18:52:12,696] {processor.py:163} INFO - Started process (PID=4063) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:52:12,700] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:52:12,701] {logging_mixin.py:109} INFO - [2022-02-15 18:52:12,701] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:52:13,283] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:52:13,289] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.597 seconds
+[2022-02-15 18:52:43,408] {processor.py:163} INFO - Started process (PID=4099) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:52:43,411] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:52:43,412] {logging_mixin.py:109} INFO - [2022-02-15 18:52:43,412] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:52:44,064] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:52:44,072] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.667 seconds
+[2022-02-15 18:53:14,543] {processor.py:163} INFO - Started process (PID=4145) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:53:14,547] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:53:14,549] {logging_mixin.py:109} INFO - [2022-02-15 18:53:14,549] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:53:15,135] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:53:15,142] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.602 seconds
+[2022-02-15 18:53:45,282] {processor.py:163} INFO - Started process (PID=4182) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:53:45,283] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:53:45,284] {logging_mixin.py:109} INFO - [2022-02-15 18:53:45,284] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:53:45,902] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:53:45,907] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.630 seconds
+[2022-02-15 18:54:16,404] {processor.py:163} INFO - Started process (PID=4219) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:54:16,405] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:54:16,406] {logging_mixin.py:109} INFO - [2022-02-15 18:54:16,406] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:54:16,910] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:54:16,916] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.515 seconds
+[2022-02-15 18:54:47,001] {processor.py:163} INFO - Started process (PID=4255) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:54:47,003] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:54:47,004] {logging_mixin.py:109} INFO - [2022-02-15 18:54:47,004] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:54:47,559] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:54:47,565] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.571 seconds
+[2022-02-15 18:55:18,143] {processor.py:163} INFO - Started process (PID=4291) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:55:18,149] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:55:18,152] {logging_mixin.py:109} INFO - [2022-02-15 18:55:18,151] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:55:18,703] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:55:18,706] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.566 seconds
+[2022-02-15 18:55:48,884] {processor.py:163} INFO - Started process (PID=4327) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:55:48,886] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:55:48,888] {logging_mixin.py:109} INFO - [2022-02-15 18:55:48,887] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:55:49,492] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:55:49,497] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.619 seconds
+[2022-02-15 18:56:19,592] {processor.py:163} INFO - Started process (PID=4364) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:56:19,595] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:56:19,597] {logging_mixin.py:109} INFO - [2022-02-15 18:56:19,597] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:56:20,123] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:56:20,129] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.545 seconds
+[2022-02-15 18:56:50,253] {processor.py:163} INFO - Started process (PID=4401) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:56:50,257] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:56:50,258] {logging_mixin.py:109} INFO - [2022-02-15 18:56:50,258] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:56:50,744] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:56:50,747] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.502 seconds
+[2022-02-15 18:57:20,874] {processor.py:163} INFO - Started process (PID=4437) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:57:20,879] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:57:20,882] {logging_mixin.py:109} INFO - [2022-02-15 18:57:20,882] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:57:21,515] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:57:21,520] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.650 seconds
+[2022-02-15 18:57:51,600] {processor.py:163} INFO - Started process (PID=4484) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:57:51,606] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:57:51,609] {logging_mixin.py:109} INFO - [2022-02-15 18:57:51,608] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:57:52,222] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:57:52,225] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.628 seconds
+[2022-02-15 18:58:22,372] {processor.py:163} INFO - Started process (PID=4521) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:58:22,373] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:58:22,374] {logging_mixin.py:109} INFO - [2022-02-15 18:58:22,374] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:58:22,828] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:58:22,831] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.463 seconds
+[2022-02-15 18:58:52,964] {processor.py:163} INFO - Started process (PID=4558) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:58:52,966] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:58:52,967] {logging_mixin.py:109} INFO - [2022-02-15 18:58:52,967] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:58:53,453] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:58:53,456] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.495 seconds
+[2022-02-15 18:59:23,540] {processor.py:163} INFO - Started process (PID=4594) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:59:23,541] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:59:23,542] {logging_mixin.py:109} INFO - [2022-02-15 18:59:23,542] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:59:23,929] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:59:23,932] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.394 seconds
+[2022-02-15 18:59:54,045] {processor.py:163} INFO - Started process (PID=4641) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:59:54,046] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 18:59:54,046] {logging_mixin.py:109} INFO - [2022-02-15 18:59:54,046] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:59:54,365] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 18:59:54,368] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.325 seconds
+[2022-02-15 19:00:24,528] {processor.py:163} INFO - Started process (PID=4680) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:00:24,529] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:00:24,530] {logging_mixin.py:109} INFO - [2022-02-15 19:00:24,529] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:00:25,002] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:00:25,007] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.481 seconds
+[2022-02-15 19:00:55,175] {processor.py:163} INFO - Started process (PID=4717) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:00:55,177] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:00:55,179] {logging_mixin.py:109} INFO - [2022-02-15 19:00:55,178] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:00:55,687] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:00:55,691] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.518 seconds
+[2022-02-15 19:01:25,769] {processor.py:163} INFO - Started process (PID=4763) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:01:25,770] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:01:25,771] {logging_mixin.py:109} INFO - [2022-02-15 19:01:25,771] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:01:26,248] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:01:26,252] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.486 seconds
+[2022-02-15 19:01:56,336] {processor.py:163} INFO - Started process (PID=4799) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:01:56,337] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:01:56,338] {logging_mixin.py:109} INFO - [2022-02-15 19:01:56,338] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:01:57,228] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:01:57,233] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.899 seconds
+[2022-02-15 19:02:28,006] {processor.py:163} INFO - Started process (PID=4836) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:02:28,009] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:02:28,012] {logging_mixin.py:109} INFO - [2022-02-15 19:02:28,011] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:02:28,490] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:02:28,495] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.499 seconds
+[2022-02-15 19:02:58,597] {processor.py:163} INFO - Started process (PID=4873) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:02:58,599] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:02:58,599] {logging_mixin.py:109} INFO - [2022-02-15 19:02:58,599] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:02:59,309] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:02:59,313] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.719 seconds
+[2022-02-15 19:03:29,420] {processor.py:163} INFO - Started process (PID=4921) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:03:29,421] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:03:29,422] {logging_mixin.py:109} INFO - [2022-02-15 19:03:29,422] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:03:30,046] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:03:30,056] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.641 seconds
+[2022-02-15 19:04:00,140] {processor.py:163} INFO - Started process (PID=4958) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:04:00,141] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:04:00,142] {logging_mixin.py:109} INFO - [2022-02-15 19:04:00,142] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:04:00,600] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:04:00,604] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.467 seconds
+[2022-02-15 19:04:30,732] {processor.py:163} INFO - Started process (PID=5003) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:04:30,733] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:04:30,733] {logging_mixin.py:109} INFO - [2022-02-15 19:04:30,733] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:04:31,183] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:04:31,188] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.459 seconds
+[2022-02-15 19:05:01,298] {processor.py:163} INFO - Started process (PID=5042) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:05:01,299] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:05:01,300] {logging_mixin.py:109} INFO - [2022-02-15 19:05:01,300] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:05:01,738] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:05:01,742] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.445 seconds
+[2022-02-15 19:05:31,846] {processor.py:163} INFO - Started process (PID=5079) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:05:31,848] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:05:31,848] {logging_mixin.py:109} INFO - [2022-02-15 19:05:31,848] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:05:32,287] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:05:32,290] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.446 seconds
+[2022-02-15 19:06:02,432] {processor.py:163} INFO - Started process (PID=5125) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:06:02,435] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:06:02,436] {logging_mixin.py:109} INFO - [2022-02-15 19:06:02,436] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:06:02,756] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:06:02,759] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.331 seconds
+[2022-02-15 19:06:32,865] {processor.py:163} INFO - Started process (PID=5161) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:06:32,866] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:06:32,867] {logging_mixin.py:109} INFO - [2022-02-15 19:06:32,867] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:06:33,182] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:06:33,185] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.324 seconds
+[2022-02-15 19:07:03,321] {processor.py:163} INFO - Started process (PID=5207) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:07:03,325] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:07:03,326] {logging_mixin.py:109} INFO - [2022-02-15 19:07:03,326] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:07:04,020] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:07:04,026] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.712 seconds
+[2022-02-15 19:07:34,148] {processor.py:163} INFO - Started process (PID=5244) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:07:34,149] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:07:34,150] {logging_mixin.py:109} INFO - [2022-02-15 19:07:34,150] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:07:34,593] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:07:34,597] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.452 seconds
+[2022-02-15 19:08:04,720] {processor.py:163} INFO - Started process (PID=5281) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:08:04,723] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:08:04,724] {logging_mixin.py:109} INFO - [2022-02-15 19:08:04,724] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:08:05,149] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:08:05,153] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.440 seconds
+[2022-02-15 19:08:35,277] {processor.py:163} INFO - Started process (PID=5317) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:08:35,282] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:08:35,285] {logging_mixin.py:109} INFO - [2022-02-15 19:08:35,284] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:08:35,725] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:08:35,730] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.461 seconds
+[2022-02-15 19:09:05,852] {processor.py:163} INFO - Started process (PID=5363) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:09:05,856] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:09:05,857] {logging_mixin.py:109} INFO - [2022-02-15 19:09:05,857] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:09:06,430] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:09:06,434] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.584 seconds
+[2022-02-15 19:09:36,557] {processor.py:163} INFO - Started process (PID=5399) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:09:36,559] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:09:36,560] {logging_mixin.py:109} INFO - [2022-02-15 19:09:36,560] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:09:36,964] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:09:36,970] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.420 seconds
+[2022-02-15 19:10:07,087] {processor.py:163} INFO - Started process (PID=5437) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:10:07,091] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:10:07,093] {logging_mixin.py:109} INFO - [2022-02-15 19:10:07,092] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:10:07,432] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:10:07,434] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.355 seconds
+[2022-02-15 19:10:37,562] {processor.py:163} INFO - Started process (PID=5484) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:10:37,563] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:10:37,564] {logging_mixin.py:109} INFO - [2022-02-15 19:10:37,563] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:10:37,871] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:10:37,874] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.315 seconds
+[2022-02-15 19:11:07,978] {processor.py:163} INFO - Started process (PID=5520) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:11:07,979] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:11:07,980] {logging_mixin.py:109} INFO - [2022-02-15 19:11:07,980] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:11:08,287] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:11:08,290] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.315 seconds
+[2022-02-15 19:11:38,388] {processor.py:163} INFO - Started process (PID=5567) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:11:38,390] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:11:38,391] {logging_mixin.py:109} INFO - [2022-02-15 19:11:38,391] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:11:38,725] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:11:38,727] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.343 seconds
+[2022-02-15 19:12:08,850] {processor.py:163} INFO - Started process (PID=5604) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:12:08,852] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:12:08,852] {logging_mixin.py:109} INFO - [2022-02-15 19:12:08,852] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:12:09,161] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:12:09,164] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.316 seconds
+[2022-02-15 19:12:39,272] {processor.py:163} INFO - Started process (PID=5650) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:12:39,273] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:12:39,273] {logging_mixin.py:109} INFO - [2022-02-15 19:12:39,273] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:12:39,683] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:12:39,687] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.417 seconds
+[2022-02-15 19:13:09,794] {processor.py:163} INFO - Started process (PID=5687) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:13:09,796] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:13:09,797] {logging_mixin.py:109} INFO - [2022-02-15 19:13:09,797] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:13:10,281] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:13:10,285] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.493 seconds
+[2022-02-15 19:13:40,390] {processor.py:163} INFO - Started process (PID=5723) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:13:40,393] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:13:40,395] {logging_mixin.py:109} INFO - [2022-02-15 19:13:40,394] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:13:40,717] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:13:40,720] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.333 seconds
+[2022-02-15 19:14:10,842] {processor.py:163} INFO - Started process (PID=5769) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:14:10,843] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:14:10,844] {logging_mixin.py:109} INFO - [2022-02-15 19:14:10,844] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:14:11,158] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:14:11,161] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.322 seconds
+[2022-02-15 19:14:41,254] {processor.py:163} INFO - Started process (PID=5805) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:14:41,258] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:14:41,259] {logging_mixin.py:109} INFO - [2022-02-15 19:14:41,259] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:14:41,581] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:14:41,584] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.333 seconds
+[2022-02-15 19:15:11,683] {processor.py:163} INFO - Started process (PID=5851) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:15:11,685] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:15:11,685] {logging_mixin.py:109} INFO - [2022-02-15 19:15:11,685] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:15:12,030] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:15:12,032] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.352 seconds
+[2022-02-15 19:15:42,128] {processor.py:163} INFO - Started process (PID=5887) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:15:42,129] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:15:42,130] {logging_mixin.py:109} INFO - [2022-02-15 19:15:42,130] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:15:42,514] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:15:42,517] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.391 seconds
+[2022-02-15 19:16:12,607] {processor.py:163} INFO - Started process (PID=5933) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:16:12,609] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:16:12,610] {logging_mixin.py:109} INFO - [2022-02-15 19:16:12,609] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:16:12,979] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:16:12,983] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.379 seconds
+[2022-02-15 19:16:43,121] {processor.py:163} INFO - Started process (PID=5969) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:16:43,123] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:16:43,123] {logging_mixin.py:109} INFO - [2022-02-15 19:16:43,123] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:16:43,439] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:16:43,442] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.323 seconds
+[2022-02-15 19:17:13,543] {processor.py:163} INFO - Started process (PID=6017) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:17:13,544] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:17:13,545] {logging_mixin.py:109} INFO - [2022-02-15 19:17:13,544] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:17:13,927] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:17:13,931] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.389 seconds
+[2022-02-15 19:17:44,044] {processor.py:163} INFO - Started process (PID=6055) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:17:44,045] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:17:44,046] {logging_mixin.py:109} INFO - [2022-02-15 19:17:44,046] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:17:44,440] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:17:44,444] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.402 seconds
+[2022-02-15 19:18:14,601] {processor.py:163} INFO - Started process (PID=6091) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:18:14,605] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:18:14,607] {logging_mixin.py:109} INFO - [2022-02-15 19:18:14,607] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:18:15,069] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:18:15,074] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.482 seconds
+[2022-02-15 19:18:45,184] {processor.py:163} INFO - Started process (PID=6138) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:18:45,185] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:18:45,186] {logging_mixin.py:109} INFO - [2022-02-15 19:18:45,186] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:18:45,766] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:18:45,772] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.591 seconds
+[2022-02-15 19:19:15,880] {processor.py:163} INFO - Started process (PID=6175) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:19:15,881] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:19:15,881] {logging_mixin.py:109} INFO - [2022-02-15 19:19:15,881] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:19:16,337] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:19:16,342] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.464 seconds
+[2022-02-15 19:19:46,466] {processor.py:163} INFO - Started process (PID=6212) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:19:46,467] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:19:46,468] {logging_mixin.py:109} INFO - [2022-02-15 19:19:46,467] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:19:46,968] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:19:46,973] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.509 seconds
+[2022-02-15 19:20:17,085] {processor.py:163} INFO - Started process (PID=6260) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:20:17,087] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:20:17,088] {logging_mixin.py:109} INFO - [2022-02-15 19:20:17,087] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:20:17,866] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:20:17,870] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.787 seconds
+[2022-02-15 19:20:47,925] {processor.py:163} INFO - Started process (PID=6297) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:20:47,927] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:20:47,928] {logging_mixin.py:109} INFO - [2022-02-15 19:20:47,928] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:20:48,691] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:20:48,707] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.788 seconds
+[2022-02-15 19:21:18,842] {processor.py:163} INFO - Started process (PID=6334) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:21:18,844] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:21:18,844] {logging_mixin.py:109} INFO - [2022-02-15 19:21:18,844] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:21:19,439] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:21:19,443] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.603 seconds
+[2022-02-15 19:21:49,573] {processor.py:163} INFO - Started process (PID=6379) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:21:49,575] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:21:49,577] {logging_mixin.py:109} INFO - [2022-02-15 19:21:49,577] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:21:50,167] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:21:50,173] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.604 seconds
+[2022-02-15 19:22:20,304] {processor.py:163} INFO - Started process (PID=6418) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:22:20,307] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:22:20,309] {logging_mixin.py:109} INFO - [2022-02-15 19:22:20,309] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:22:20,819] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:22:20,823] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.528 seconds
+[2022-02-15 19:22:50,961] {processor.py:163} INFO - Started process (PID=6454) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:22:50,962] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:22:50,963] {logging_mixin.py:109} INFO - [2022-02-15 19:22:50,963] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:22:51,439] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:22:51,443] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.486 seconds
+[2022-02-15 19:23:21,578] {processor.py:163} INFO - Started process (PID=6500) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:23:21,580] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:23:21,582] {logging_mixin.py:109} INFO - [2022-02-15 19:23:21,582] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:23:22,155] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:23:22,159] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.590 seconds
+[2022-02-15 19:23:52,910] {processor.py:163} INFO - Started process (PID=6537) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:23:52,911] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:23:52,912] {logging_mixin.py:109} INFO - [2022-02-15 19:23:52,911] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:23:53,530] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:23:53,536] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.629 seconds
+[2022-02-15 19:24:23,674] {processor.py:163} INFO - Started process (PID=6573) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:24:23,676] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:24:23,677] {logging_mixin.py:109} INFO - [2022-02-15 19:24:23,677] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:24:24,314] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:24:24,320] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.653 seconds
+[2022-02-15 19:24:54,769] {processor.py:163} INFO - Started process (PID=6619) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:24:54,771] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:24:54,772] {logging_mixin.py:109} INFO - [2022-02-15 19:24:54,772] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:24:55,326] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:24:55,333] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.571 seconds
+[2022-02-15 19:25:25,441] {processor.py:163} INFO - Started process (PID=6656) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:25:25,445] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:25:25,446] {logging_mixin.py:109} INFO - [2022-02-15 19:25:25,446] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:25:25,872] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:25:25,876] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.443 seconds
+[2022-02-15 19:25:56,033] {processor.py:163} INFO - Started process (PID=6693) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:25:56,035] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:25:56,036] {logging_mixin.py:109} INFO - [2022-02-15 19:25:56,036] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:25:56,589] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:25:56,593] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.566 seconds
+[2022-02-15 19:26:26,706] {processor.py:163} INFO - Started process (PID=6740) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:26:26,707] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:26:26,708] {logging_mixin.py:109} INFO - [2022-02-15 19:26:26,708] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:26:27,283] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:26:27,286] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.584 seconds
+[2022-02-15 19:26:57,365] {processor.py:163} INFO - Started process (PID=6777) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:26:57,369] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:26:57,370] {logging_mixin.py:109} INFO - [2022-02-15 19:26:57,370] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:26:57,844] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:26:57,848] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.486 seconds
+[2022-02-15 19:27:28,495] {processor.py:163} INFO - Started process (PID=6814) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:27:28,496] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:27:28,497] {logging_mixin.py:109} INFO - [2022-02-15 19:27:28,497] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:27:28,944] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:27:28,947] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.456 seconds
+[2022-02-15 19:27:59,067] {processor.py:163} INFO - Started process (PID=6850) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:27:59,069] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:27:59,070] {logging_mixin.py:109} INFO - [2022-02-15 19:27:59,070] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:27:59,521] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:27:59,526] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.464 seconds
+[2022-02-15 19:28:29,630] {processor.py:163} INFO - Started process (PID=6896) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:28:29,632] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:28:29,633] {logging_mixin.py:109} INFO - [2022-02-15 19:28:29,633] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:28:30,069] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:28:30,071] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.445 seconds
+[2022-02-15 19:29:00,176] {processor.py:163} INFO - Started process (PID=6933) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:29:00,177] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:29:00,178] {logging_mixin.py:109} INFO - [2022-02-15 19:29:00,178] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:29:00,687] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:29:00,692] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.519 seconds
+[2022-02-15 19:29:30,805] {processor.py:163} INFO - Started process (PID=6970) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:29:30,806] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:29:30,807] {logging_mixin.py:109} INFO - [2022-02-15 19:29:30,807] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:29:31,423] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:29:31,430] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.628 seconds
+[2022-02-15 19:30:01,969] {processor.py:163} INFO - Started process (PID=7016) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:30:01,970] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:30:01,971] {logging_mixin.py:109} INFO - [2022-02-15 19:30:01,970] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:30:02,352] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:30:02,356] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.389 seconds
+[2022-02-15 19:30:32,472] {processor.py:163} INFO - Started process (PID=7054) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:30:32,476] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:30:32,477] {logging_mixin.py:109} INFO - [2022-02-15 19:30:32,477] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:30:32,970] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:30:32,974] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.510 seconds
+[2022-02-15 19:31:03,099] {processor.py:163} INFO - Started process (PID=7101) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:31:03,102] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:31:03,102] {logging_mixin.py:109} INFO - [2022-02-15 19:31:03,102] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:31:03,512] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:31:03,515] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.418 seconds
+[2022-02-15 19:31:34,217] {processor.py:163} INFO - Started process (PID=7139) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:31:34,220] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:31:34,221] {logging_mixin.py:109} INFO - [2022-02-15 19:31:34,221] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:31:34,589] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:31:34,593] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.379 seconds
+[2022-02-15 19:32:04,726] {processor.py:163} INFO - Started process (PID=7175) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:32:04,729] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:32:04,730] {logging_mixin.py:109} INFO - [2022-02-15 19:32:04,730] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:32:05,404] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:32:05,410] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.690 seconds
+[2022-02-15 19:32:35,519] {processor.py:163} INFO - Started process (PID=7221) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:32:35,521] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:32:35,521] {logging_mixin.py:109} INFO - [2022-02-15 19:32:35,521] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:32:36,005] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:32:36,008] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.491 seconds
+[2022-02-15 19:33:06,111] {processor.py:163} INFO - Started process (PID=7261) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:33:06,112] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:33:06,113] {logging_mixin.py:109} INFO - [2022-02-15 19:33:06,113] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:33:06,592] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:33:06,598] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.492 seconds
+[2022-02-15 19:33:36,706] {processor.py:163} INFO - Started process (PID=7298) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:33:36,707] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:33:36,707] {logging_mixin.py:109} INFO - [2022-02-15 19:33:36,707] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:33:37,252] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:33:37,258] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.556 seconds
+[2022-02-15 19:34:07,397] {processor.py:163} INFO - Started process (PID=7335) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:34:07,398] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:34:07,399] {logging_mixin.py:109} INFO - [2022-02-15 19:34:07,399] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:34:07,958] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:34:07,963] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.569 seconds
+[2022-02-15 19:34:38,118] {processor.py:163} INFO - Started process (PID=7372) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:34:38,121] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:34:38,122] {logging_mixin.py:109} INFO - [2022-02-15 19:34:38,122] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:34:38,694] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:34:38,699] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.587 seconds
+[2022-02-15 19:35:08,814] {processor.py:163} INFO - Started process (PID=7419) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:35:08,817] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:35:08,817] {logging_mixin.py:109} INFO - [2022-02-15 19:35:08,817] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:35:09,453] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:35:09,459] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.647 seconds
+[2022-02-15 19:35:39,600] {processor.py:163} INFO - Started process (PID=7456) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:35:39,604] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:35:39,604] {logging_mixin.py:109} INFO - [2022-02-15 19:35:39,604] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:35:40,372] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:35:40,378] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.782 seconds
+[2022-02-15 19:36:10,740] {processor.py:163} INFO - Started process (PID=7492) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:36:10,741] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:36:10,741] {logging_mixin.py:109} INFO - [2022-02-15 19:36:10,741] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:36:11,353] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:36:11,360] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.623 seconds
+[2022-02-15 19:36:41,855] {processor.py:163} INFO - Started process (PID=7539) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:36:41,858] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:36:41,861] {logging_mixin.py:109} INFO - [2022-02-15 19:36:41,860] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:36:42,583] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:36:42,589] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.737 seconds
+[2022-02-15 19:37:12,721] {processor.py:163} INFO - Started process (PID=7577) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:37:12,722] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:37:12,723] {logging_mixin.py:109} INFO - [2022-02-15 19:37:12,723] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:37:13,269] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:37:13,275] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.556 seconds
+[2022-02-15 19:37:43,399] {processor.py:163} INFO - Started process (PID=7613) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:37:43,401] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:37:43,401] {logging_mixin.py:109} INFO - [2022-02-15 19:37:43,401] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:37:43,935] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:37:43,941] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.545 seconds
+[2022-02-15 19:38:14,043] {processor.py:163} INFO - Started process (PID=7649) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:38:14,045] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:38:14,046] {logging_mixin.py:109} INFO - [2022-02-15 19:38:14,046] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:38:14,624] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:38:14,631] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.590 seconds
+[2022-02-15 19:38:44,744] {processor.py:163} INFO - Started process (PID=7695) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:38:44,747] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:38:44,748] {logging_mixin.py:109} INFO - [2022-02-15 19:38:44,747] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:38:45,395] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:38:45,401] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.659 seconds
+[2022-02-15 19:39:15,496] {processor.py:163} INFO - Started process (PID=7735) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:39:15,498] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:39:15,498] {logging_mixin.py:109} INFO - [2022-02-15 19:39:15,498] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:39:16,111] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:39:16,118] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.624 seconds
+[2022-02-15 19:39:46,622] {processor.py:163} INFO - Started process (PID=7772) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:39:46,623] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:39:46,624] {logging_mixin.py:109} INFO - [2022-02-15 19:39:46,624] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:39:47,305] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:39:47,309] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.692 seconds
+[2022-02-15 19:40:18,029] {processor.py:163} INFO - Started process (PID=7808) to work on /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:40:18,031] {processor.py:642} INFO - Processing file /opt/airflow/dags/functions/extract.py for tasks to queue
+[2022-02-15 19:40:18,032] {logging_mixin.py:109} INFO - [2022-02-15 19:40:18,032] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:40:18,466] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/functions/extract.py
+[2022-02-15 19:40:18,470] {processor.py:171} INFO - Processing /opt/airflow/dags/functions/extract.py took 0.446 seconds

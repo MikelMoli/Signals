@@ -1,0 +1,79 @@
+[2022-02-14 18:27:55,481] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: ingest_data.extract_all_data manual__2022-02-14T18:27:52.913306+00:00 [queued]>
+[2022-02-14 18:27:55,499] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: ingest_data.extract_all_data manual__2022-02-14T18:27:52.913306+00:00 [queued]>
+[2022-02-14 18:27:55,499] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-02-14 18:27:55,499] {taskinstance.py:1239} INFO - Starting attempt 1 of 1
+[2022-02-14 18:27:55,500] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-02-14 18:27:55,516] {taskinstance.py:1259} INFO - Executing <Task(PythonOperator): extract_all_data> on 2022-02-14 18:27:52.913306+00:00
+[2022-02-14 18:27:55,522] {standard_task_runner.py:52} INFO - Started process 2268 to run task
+[2022-02-14 18:27:55,529] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'ingest_data', 'extract_all_data', 'manual__2022-02-14T18:27:52.913306+00:00', '--job-id', '135', '--raw', '--subdir', 'DAGS_FOLDER/dag_01.py', '--cfg-path', '/tmp/tmp0tzh20ac', '--error-file', '/tmp/tmpa52hr12e']
+[2022-02-14 18:27:55,530] {standard_task_runner.py:77} INFO - Job 135: Subtask extract_all_data
+[2022-02-14 18:27:55,604] {logging_mixin.py:109} INFO - Running <TaskInstance: ingest_data.extract_all_data manual__2022-02-14T18:27:52.913306+00:00 [running]> on host 223810fcea28
+[2022-02-14 18:27:55,662] {taskinstance.py:1426} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=ingest_data
+AIRFLOW_CTX_TASK_ID=extract_all_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-02-14T18:27:52.913306+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-02-14T18:27:52.913306+00:00
+[2022-02-14 18:28:02,325] {taskinstance.py:1700} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 174, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 185, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/functions/extract.py", line 84, in extract
+    task.run()
+  File "/opt/airflow/dags/functions/extract.py", line 69, in run
+    argslist=data.to_dict(orient='records'))
+  File "/home/airflow/.local/lib/python3.6/site-packages/psycopg2/extras.py", line 1187, in execute_batch
+    cur.execute(b";".join(sqls))
+psycopg2.errors.SyntaxError: syntax error at or near "'1999-11-01T00:00:00'"
+LINE 1: ...e, open, high, low, close, volume, ticker) VALUES '1999-11-0...
+                                                             ^
+
+[2022-02-14 18:28:02,336] {taskinstance.py:1277} INFO - Marking task as FAILED. dag_id=ingest_data, task_id=extract_all_data, execution_date=20220214T182752, start_date=20220214T182755, end_date=20220214T182802
+[2022-02-14 18:28:02,348] {standard_task_runner.py:92} ERROR - Failed to execute job 135 for task extract_all_data
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/task/task_runner/standard_task_runner.py", line 85, in _start_by_fork
+    args.func(args, dag=self.dag)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/cli/cli_parser.py", line 48, in command
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/cli.py", line 92, in wrapper
+    return f(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/cli/commands/task_command.py", line 298, in task_run
+    _run_task_by_selected_method(args, dag, ti)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/cli/commands/task_command.py", line 107, in _run_task_by_selected_method
+    _run_raw_task(args, ti)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/cli/commands/task_command.py", line 184, in _run_raw_task
+    error_file=args.error_file,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 174, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 185, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/functions/extract.py", line 84, in extract
+    task.run()
+  File "/opt/airflow/dags/functions/extract.py", line 69, in run
+    argslist=data.to_dict(orient='records'))
+  File "/home/airflow/.local/lib/python3.6/site-packages/psycopg2/extras.py", line 1187, in execute_batch
+    cur.execute(b";".join(sqls))
+psycopg2.errors.SyntaxError: syntax error at or near "'1999-11-01T00:00:00'"
+LINE 1: ...e, open, high, low, close, volume, ticker) VALUES '1999-11-0...
+                                                             ^
+
+[2022-02-14 18:28:02,401] {local_task_job.py:154} INFO - Task exited with return code 1
+[2022-02-14 18:28:02,436] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

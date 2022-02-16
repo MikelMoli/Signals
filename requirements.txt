@@ -1,0 +1,4 @@
+pandas==1.4.0
+PyYAML==6.0
+pandas-ta==0.3.14b
+psycopg2==2.9.3
