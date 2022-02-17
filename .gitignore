@@ -1,2 +1,4 @@
 venv/*
+logs/scheduler/*
+dags/utils/__pycache__/
 prueba.ipynb
